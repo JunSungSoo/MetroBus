@@ -1,5 +1,5 @@
 {
-  "name": "MetroBus",
+  "name": "metro-bus",
   "packageManager": "yarn@3.2.3",
   "workspaces": {
     "packages": [
