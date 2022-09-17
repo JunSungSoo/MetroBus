@@ -1,0 +1,12 @@
+{
+  "name": "MetroBus",
+  "packageManager": "yarn@3.2.3",
+  "workspaces": {
+    "packages": [
+      "package/*"
+    ]
+  },
+  "scripts": {
+    "metro": "yarn workspaces metro"
+  }
+}
