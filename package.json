@@ -7,6 +7,9 @@
     ]
   },
   "scripts": {
-    "metro": "yarn workspaces metro"
+    "metro": "yarn workspace metro"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
   }
 }
